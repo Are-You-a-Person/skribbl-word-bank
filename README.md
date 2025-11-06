@@ -15,104 +15,116 @@ Thursday, July 10, 2025 to Saturday, July 12, 2025
 
 2 days, 5 hours, 12 minutes, 38 seconds
 
-Patterns found: 90
+# Pattern breakdown
 
-Pattern breakdown:
-  3_letters: 186 words
-  4_letters: 519 words
-  5_letters: 583 words
-  6_letters: 562 words
-  7_letters: 447 words
-  8_letters: 364 words
-  9_letters: 282 words
-  10_letters: 136 words
-  11_letters: 56 words
-  12_letters: 18 words
-  13_letters: 7 words
-  14_letters: 2 words
-  15_letters: 1 words
-  10_4_words: 1 words
-  10_5_words: 1 words
-  10_6_words: 2 words
-  10_8_words: 1 words
-  2_7_words: 1 words
-  3_10_words: 1 words
-  3_11_words: 1 words
-  3_2_3_words: 1 words
-  3_2_4_words: 1 words
-  3_3_4_words: 1 words
-  3_3_7_words: 1 words
-  3_3_words: 11 words
-  3_4_words: 21 words
-  3_5_4_words: 1 words
-  3_5_5_words: 1 words
-  3_5_words: 15 words
-  3_6_words: 8 words
-  3_7_words: 7 words
-  3_8_words: 3 words
-  3_9_words: 1 words
-  4_10_words: 2 words
-  4_12_words: 1 words
-  4_2_3_3_words: 1 words
-  4_2_3_words: 1 words
-  4_2_5_words: 1 words
-  4_2_6_words: 1 words
-  4_2_words: 5 words
-  4_3_4_words: 1 words
-  4_3_5_words: 1 words
-  4_3_words: 10 words
-  4_4_words: 49 words
-  4_5_words: 29 words
-  4_6_words: 16 words
-  4_7_words: 8 words
-  4_8_words: 1 words
-  5_2_4_words: 1 words
-  5_2_words: 1 words
-  5_3_5_words: 1 words
-  5_3_6_words: 1 words
-  5_3_words: 22 words
-  5_4_words: 41 words
-  5_5_words: 33 words
-  5_6_words: 23 words
-  5_7_4_words: 1 words
-  5_7_words: 14 words
-  5_8_words: 4 words
-  5_9_words: 2 words
-  6_10_words: 1 words
-  6_2_7_words: 1 words
-  6_2_words: 1 words
-  6_3_4_words: 1 words
-  6_3_words: 13 words
-  6_4_words: 31 words
-  6_5_5_words: 1 words
-  6_5_words: 23 words
-  6_6_words: 9 words
-  6_7_words: 9 words
-  6_8_words: 1 words
-  6_9_words: 2 words
-  7_11_words: 1 words
-  7_3_4_words: 1 words
-  7_3_words: 7 words
-  7_4_words: 12 words
-  7_5_words: 9 words
-  7_6_words: 3 words
-  7_7_words: 13 words
-  7_8_words: 1 words
-  7_9_words: 1 words
-  8_2_5_words: 1 words
-  8_3_words: 4 words
-  8_4_words: 10 words
-  8_5_words: 4 words
-  8_6_words: 4 words
-  8_8_words: 3 words
-  9_4_words: 3 words
-  9_6_words: 1 words
-  9_7_words: 1 words
+There are 100 distinct pattern frequencies listed.
+5: 580
+6: 561
+4: 519
+7: 445
+8: 362
+9: 282
+3: 186
+10: 135
+11: 55
+4 4: 49
+5 4: 41
+5 5: 33
+6 4: 31
+4 5: 29
+6 5: 23
+5 6: 23
+5 3: 22
+3 4: 21
+12: 18
+4 6: 16
+3 5: 15
+5 7: 14
+7 7: 13
+6 3: 13
+7 4: 12
+3 3: 11
+8 4: 10
+4 3: 10
+7 5: 9
+6 7: 9
+6 6: 9
+4 7: 8
+3 6: 8
+7 3: 7
+13: 7
+3 7: 6
+4 2: 5
+8 6: 4
+8 5: 4
+8 3: 4
+5 8: 4
+9 4: 3
+8 8: 3
+7 6: 3
+3 8: 3
+6 9: 2
+5 9: 2
+4-3: 2
+4 10: 2
+10 6: 2
+1-3: 2
+9 7: 1
+9 6: 1
+8 2 5: 1
+7 9: 1
+7 8: 1
+7 3 4: 1
+7 11: 1
+6 8: 1
+6 5 5: 1
+6 3 4: 1
+6 2 7: 1
+6 2: 1
+6 10: 1
+5-5: 1
+5-4: 1
+5 7 4: 1
+5 3 6: 1
+5 3 5: 1
+5 2 4: 1
+5 2: 1
+4-1-7: 1
+4-1: 1
+4 8: 1
+4 3 5: 1
+4 3 4: 1
+4 2 6: 1
+4 2 5: 1
+4 2 3 3: 1
+4 2 3: 1
+4 12: 1
+3-3: 1
+3 9: 1
+3 5 5: 1
+3 5 4: 1
+3 4-2: 1
+3 3 7: 1
+3 3 4: 1
+3 2 4: 1
+3 2 3: 1
+3 11: 1
+3 10: 1
+2-2: 1
+2 7: 1
+15: 1
+14: 1
+10 8: 1
+10 5: 1
+10 4: 1
+1-5: 1
+
+
 
 # Sorting
 
 Files will be labeled and sorted with "alphabetical" or "drawability".
 
 - Alphabetical order sorts the entire list.
-- Drawability breaks up the list into seperate sections for different word patterns and for each, it uses AI to subjectively sort by how easy it is to be drawn in a game like skribbl.io.
+- Drawability breaks up the list into seperate sections for different word patterns and for each, it uses AI to subjectively sort by how easy it is to be drawn in a game like skribbl.io. (not super good right now)
 
