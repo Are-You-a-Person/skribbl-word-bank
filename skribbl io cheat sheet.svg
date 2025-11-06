@@ -1,4 +1,4 @@
-<svg width="1400" height="2850" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+<svg width="1400" height="3000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
 
   <!-- Defs for styles, filters, and symbols -->
   <defs>
@@ -34,7 +34,7 @@
   </defs>
 
   <!-- Background -->
-  <rect x="0" y="0" width="1400" height="2850" class="bg"/>
+  <rect x="0" y="0" width="1400" height="3000" class="bg"/>
 
   <!-- Header -->
   <rect x="0" y="0" width="1400" height="100" class="title-box" />
@@ -272,9 +272,24 @@
       </g>
     </g>
 
+    <!-- Section: Word List Information -->
+    <g transform="translate(0, 2650)">
+      <text x="0" y="0" class="section-title">About This Word List</text>
+      <line x1="0" y1="15" x2="600" y2="15" stroke="#007BFF" stroke-width="2"/>
+      <text x="0" y="50" class="word-text" style="font-size: 16px;">
+        <tspan x="0" dy="0">• Total Words: 3686 (English)</tspan>
+        <tspan x="0" dy="1.5em">• Accuracy: Valid for the game version updated on November 9th, 2022 (including 2025).</tspan>
+        <tspan x="0" dy="1.5em">• Source &amp; Full List: 
+          <a xlink:href="https://github.com/Are-You-a-Person/skribbl-word-bank" fill="#007BFF" style="text-decoration: underline;">
+            https://github.com/Are-You-a-Person/skribbl-word-bank
+          </a>
+        </tspan>
+      </text>
+    </g>
+
   </g>
   
   <!-- Footer -->
-  <text x="700" y="2820" class="footer-text">Generated based on the analysis of skribbl_words_drawability_en.txt</text>
+  <text x="700" y="2970" class="footer-text">Generated based on the analysis of skribbl_words_drawability_en.txt</text>
 
 </svg>
